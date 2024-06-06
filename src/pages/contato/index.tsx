@@ -9,13 +9,13 @@ export default function Contato() {
                 <p>Bem vindo</p>
                 <hr />
                 <InputFatec
-                    placeHolder="Digite seu nome"
+                    placeHolder="Digite nome"
                     defaultValue="" type="text" /><br />
                 <InputFatec
-                    placeHolder="Digite seu email"
+                    placeHolder="Digite email"
                     defaultValue="" type="email" /><br />
                 <InputFatec
-                    placeHolder="Digite seu telefone"
+                    placeHolder="Digite o telefone"
                     defaultValue="" type="text" /><br />
                 <ButtonFatec label="Botão 2" type="button" />
                 <hr />
